@@ -25,6 +25,8 @@ pandas – Data manipulation
 matplotlib / seaborn / plotly – Data visualization
 
 numpy – Numerical analysis
+
 Power BI / Tableau (optional) – Dashboard creation
+
 
 ---
