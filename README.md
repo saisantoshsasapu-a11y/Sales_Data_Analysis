@@ -22,7 +22,7 @@ Libraries/Tools:
 
 pandas – Data manipulation
 
-matplotlib / seaborn / plotly – Data visualization
+matplotlib – Data visualization
 
 numpy – Numerical analysis
 
