@@ -1,0 +1,2 @@
+*~                      # ignore any files ending with ~
+*.ipynb_checkpoints     # ignore Jupyter checkpoint files
