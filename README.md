@@ -1,4 +1,4 @@
-📊 Sales Data Analysis
+Sales Data Analysis
 📌 Overview
 
 This project focuses on analyzing sales data to uncover insights that can improve business performance. By examining trends, customer behavior, and product performance, the goal is to support data-driven decision-making in areas like marketing, pricing, and inventory management.
