@@ -14,8 +14,6 @@ This project performs **Exploratory Data Analysis (EDA)** on a restaurant sales 
 - Seasonal and daily revenue trends  
 - Sales variability and statistical metrics  
 
-The analysis is visual and analytical, making it **portfolio-ready for recruiters**, demonstrating both **technical and business acumen**.
-
 ---
 
 ## 🗂 **Dataset**
