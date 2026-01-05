@@ -1,7 +1,7 @@
 # 🍽️ Restaurant Sales Analysis Project
 
 ## **Project Objective**
-   Analyze restaurant sales data to uncover trends, identify top-performing products and locations, and provide actionable insights to maximize revenue and optimize operations.
+   Analyze restaurant sales data to uncover trends, identify top-performing products and locations & provide actionable insights to maximize revenue and optimize operations.
 
 ---
 
@@ -18,8 +18,7 @@ This project performs **Exploratory Data Analysis (EDA)** on a restaurant sales 
 
 ## 🗂 **Dataset**
 - **Source:**  [Kaggle Restaurant Sales Dataset](https://www.kaggle.com/code/rohitgrewal/restaurant-sales-data-analysis/input)  
-- **File Name:** `restaurant_sales.csv`  
-- **Records:** ~5,000 orders  
+- **File Name:** `restaurant_sales.csv` 
 - **Key Columns:** `Order ID`, `Date`, `Product`, `Price`, `Quantity`, `Purchase Type`, `Payment Method`, `Manager`, `City`  
 
 ---
