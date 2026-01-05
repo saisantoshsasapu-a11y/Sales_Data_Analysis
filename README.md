@@ -75,4 +75,4 @@ This project performs **Exploratory Data Analysis (EDA)** on a restaurant sales 
 ## 🛠 **How to Run the Project**
 1. Clone the repository:  
 ```bash
-git clone https://github.com/yourusername/Restaurant_Sales_Analysis.git
+git clone https://github.com/saisantoshsasapu-a11y/Sales_Data_Analysis.git
